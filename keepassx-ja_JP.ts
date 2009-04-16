@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="1.1" language="en_US">
+<!DOCTYPE TS>
+<TS version="2.0" language="ja_JP">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -1910,77 +1911,77 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="55"/>
         <source>Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="128"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ヘルプ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="136"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="140"/>
         <source>&amp;Export to...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エクスポート...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="145"/>
         <source>&amp;Import from...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">インポート...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="191"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ビュー</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="230"/>
         <source>E&amp;xtras</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エクストラ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="262"/>
         <source>&amp;Open Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースを開く...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="267"/>
         <source>&amp;Close Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースを閉じる</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="272"/>
         <source>&amp;Save Database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースを保存</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="277"/>
         <source>Save Database &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">別名でデータベースを保存...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="282"/>
         <source>&amp;Database Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベース設定...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="287"/>
         <source>Change &amp;Master Key...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マスターキーを変更...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="292"/>
         <source>&amp;Lock Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ワークスペースをロック</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="474"/>
         <source>&amp;Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">設定...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="482"/>
@@ -2180,57 +2181,57 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="540"/>
         <source>&amp;New Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規データベース...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="545"/>
         <source>&amp;Password Generator...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワード生成器...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="556"/>
         <source>&amp;Group (search results only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ(検索結果のみ)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="561"/>
         <source>Show &amp;Expired Entries...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">期限切れエントリーを表示...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="574"/>
         <source>&amp;Add Bookmark...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ブックマークを追加...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="579"/>
         <source>Bookmark &amp;this Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このデータベースをブックマーク...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="305"/>
         <source>&amp;Add New Subgroup...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">サブグループを追加...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="584"/>
         <source>Copy URL to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URLをクリップボードにコピー</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="589"/>
         <source>Add New Group...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループを追加...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="172"/>
         <source>&amp;Entries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリー</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="240"/>
         <source>&amp;Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="594"/>
@@ -2862,19 +2863,19 @@ from the drop-down list, or enter the window title manually:</source>
     <message>
         <location filename="../lib/tools.cpp" line="352"/>
         <source>$TRANSLATION_AUTHOR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koji Tanaka</translation>
     </message>
     <message>
         <location filename="../dialogs/AboutDlg.cpp" line="35"/>
         <source>$TRANSLATION_AUTHOR_EMAIL</source>
         <comment>Here you can enter your email or homepage if you want.</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">tenkoma@gmail.com</translation>
     </message>
     <message>
         <location filename="../lib/tools.cpp" line="351"/>
         <source>$LANGUAGE_NAME</source>
         <comment>Insert your language name in the format: English (United States)</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">日本語 (日本)</translation>
     </message>
 </context>
 <context>
