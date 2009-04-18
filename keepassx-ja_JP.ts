@@ -2418,7 +2418,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="729"/>
         <source>Expired</source>
-        <translation>満了済み</translation>
+        <translation type="unfinished">有効期限切れ</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="912"/>
@@ -2438,32 +2438,32 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="1105"/>
         <source>Show &amp;Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ツールバー(&amp;T)</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="356"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+N</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="372"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+P</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="373"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+X</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="366"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+I</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="407"/>
         <source>Database locked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースをロックしました</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="411"/>
@@ -2477,22 +2477,23 @@ Do you want to open it anyway?</source>
         <location filename="../mainwindow.cpp" line="517"/>
         <source>The current file was modified.
 Do you want to save the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">現在のファイルは変更されました。
+変更を保存しますか?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="535"/>
         <source>Couldn&apos;t remove database lock file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースのロックファイルを削除できませんでした.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="414"/>
         <source>Open read-only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">読み取り専用で開く</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1429"/>
         <source>Couldn&apos;t create lock file. Opening the database read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ロックファイルを生成できませんでした. データベースを読み取り専用で開きます.</translation>
     </message>
 </context>
 <context>
@@ -2528,7 +2529,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="589"/>
         <source>Add New Group...</source>
-        <translation type="unfinished">新しいグループの追加...</translation>
+        <translation type="unfinished">新規グループ...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="279"/>
@@ -2693,12 +2694,12 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="191"/>
         <source>&amp;View</source>
-        <translation>表示(&amp;V)</translation>
+        <translation type="unfinished">表示</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="136"/>
         <source>&amp;File</source>
-        <translation>ファイル(&amp;F)</translation>
+        <translation type="unfinished">ファイル</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="145"/>
@@ -2719,32 +2720,32 @@ Do you want to save the changes?</source>
         <location filename="../forms/MainWindow.ui" line="230"/>
         <source>E&amp;xtras</source>
         <translatorcomment>エクストラはわかりにくいし、追加機能だと冗長かと。</translatorcomment>
-        <translation type="unfinished">ツール(&amp;X)</translation>
+        <translation type="unfinished">ツール</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="128"/>
         <source>&amp;Help</source>
-        <translation>ヘルプ(&amp;H)</translation>
+        <translation type="unfinished">ヘルプ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="262"/>
         <source>&amp;Open Database...</source>
-        <translation>データベースを開く(&amp;O)...</translation>
+        <translation type="unfinished">開く(&amp;O)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="267"/>
         <source>&amp;Close Database</source>
-        <translation>データベースを閉じる(&amp;C)</translation>
+        <translation type="unfinished">閉じる(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="272"/>
         <source>&amp;Save Database</source>
-        <translation>データベースの上書き保存(&amp;S)</translation>
+        <translation type="unfinished">上書き保存(&amp;S)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="277"/>
         <source>Save Database &amp;As...</source>
-        <translation>名前を付けてデータベースを保存(&amp;A)...</translation>
+        <translation type="unfinished">名前を付けて保存(&amp;A)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="282"/>
@@ -2869,182 +2870,182 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="150"/>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ブックマーク(&amp;B)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="195"/>
         <source>Toolbar &amp;Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ツールバーのアイコンサイズ(&amp;I)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="203"/>
         <source>&amp;Columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">列(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="257"/>
         <source>&amp;Manage Bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ブックマークの管理(&amp;M)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="297"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">終了(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="310"/>
         <source>&amp;Edit Group...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループの編集(&amp;E)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="315"/>
         <source>&amp;Delete Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループの削除(&amp;D)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="320"/>
         <source>Copy Password &amp;to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワードをコピー(&amp;T)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="325"/>
         <source>Copy &amp;Username to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ユーザー名をコピー(&amp;U)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="330"/>
         <source>&amp;Open URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URLを開く(&amp;O)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="335"/>
         <source>&amp;Save Attachment As...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添付ファイルを名前を付けて保存(&amp;S)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="340"/>
         <source>Add &amp;New Entry...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規エントリの追加(&amp;N)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="345"/>
         <source>&amp;View/Edit Entry...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリの表示/編集(&amp;V)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="350"/>
         <source>De&amp;lete Entry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリの削除</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="355"/>
         <source>&amp;Clone Entry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリのクローン(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="360"/>
         <source>Search &amp;in Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースから検索(&amp;I)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="365"/>
         <source>Search in this &amp;Group...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このグループから検索(&amp;G)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="373"/>
         <source>Show &amp;Entry Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリの詳細(&amp;E)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="381"/>
         <source>Hide &amp;Usernames</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ユーザー名を隠す(&amp;U)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="389"/>
         <source>Hide &amp;Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワードを隠す(&amp;P)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="397"/>
         <source>&amp;Title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">タイトル(&amp;T)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="405"/>
         <source>User&amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ユーザー名(&amp;N)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="413"/>
         <source>&amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URL(&amp;U)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="421"/>
         <source>&amp;Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワード(&amp;P)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="429"/>
         <source>&amp;Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">コメント(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="437"/>
         <source>E&amp;xpires</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">有効期限(&amp;E)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="445"/>
         <source>C&amp;reation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作成日(&amp;R)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="453"/>
         <source>&amp;Last Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最終変更日(&amp;L)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="461"/>
         <source>Last &amp;Access</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最終アクセス日(&amp;A)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="469"/>
         <source>A&amp;ttachment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添付ファイル(&amp;A)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="493"/>
         <source>Show &amp;Statusbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ステータスバー(&amp;S)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="511"/>
         <source>&amp;Perform AutoType</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自動入力を行う(&amp;P)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="519"/>
         <source>&amp;16x16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16x16(&amp;1)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="527"/>
         <source>&amp;22x22</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">22x22(&amp;2)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="535"/>
         <source>2&amp;8x28</source>
-        <translation type="unfinished">28x28</translation>
+        <translation type="unfinished">28x28(&amp;8)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="540"/>
         <source>&amp;New Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規(&amp;N)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="545"/>
@@ -3054,47 +3055,47 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="556"/>
         <source>&amp;Group (search results only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ (検索結果のみ) (&amp;G)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="561"/>
         <source>Show &amp;Expired Entries...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">有効期限切れのエントリを表示(&amp;E)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="574"/>
         <source>&amp;Add Bookmark...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ブックマークの追加(&amp;A)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="579"/>
         <source>Bookmark &amp;this Database...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このデータベースをブックマーク(&amp;T)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="305"/>
         <source>&amp;Add New Subgroup...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新規子グループ(&amp;A)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="584"/>
         <source>Copy URL to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URLをコピー</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="172"/>
         <source>&amp;Entries</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エントリ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="240"/>
         <source>&amp;Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループ</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="594"/>
         <source>Sort groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">グループを並べ替える</translation>
     </message>
 </context>
 <context>
