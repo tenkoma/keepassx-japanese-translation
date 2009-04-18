@@ -2226,7 +2226,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="855"/>
         <source>Clone Entry</source>
-        <translation>エントリを閉じる</translation>
+        <translation type="unfinished">エントリを複製</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="857"/>
@@ -2236,7 +2236,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="870"/>
         <source>Clone Entries</source>
-        <translation>エントリのクローン</translation>
+        <translation type="unfinished">エントリの複製</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="872"/>
@@ -2940,7 +2940,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="355"/>
         <source>&amp;Clone Entry</source>
-        <translation type="unfinished">エントリのクローン(&amp;C)</translation>
+        <translation type="unfinished">エントリの複製(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="360"/>
