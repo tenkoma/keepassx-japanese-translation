@@ -579,7 +579,7 @@ Are you sure?</source>
     <message>
         <location filename="../dialogs/PasswordGenDlg.cpp" line="121"/>
         <source>Password Generator</source>
-        <translation>パスワード ジェネレータ</translation>
+        <translation type="unfinished">パスワードを生成する</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordGenDlg.cpp" line="279"/>
@@ -1564,7 +1564,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="13"/>
         <source>Password Generator</source>
-        <translation>パスワード ジェネレータ</translation>
+        <translation type="unfinished">パスワードを生成する</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="459"/>
@@ -1664,57 +1664,57 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="50"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">すべての文字</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="99"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下線(&amp;U)</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="116"/>
         <source>&amp;White Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">空白(&amp;W)</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="133"/>
         <source>&amp;Minus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マイナス(&amp;M)</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="193"/>
         <source>Exclude look-alike characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">似ている文字を使わない</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="200"/>
         <source>Ensure that password contains characters from every group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用するグループの文字が必ず含まれるようにする</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="216"/>
         <source>Pronounceable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">発音できる文字</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="240"/>
         <source>Lower Letters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">小文字</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="247"/>
         <source>Upper Letters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">大文字</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="254"/>
         <source>Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数字</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="261"/>
         <source>Special Characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">特殊文字</translation>
     </message>
 </context>
 <context>
@@ -1950,7 +1950,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../Kdb3Database.cpp" line="598"/>
         <source>Unable to initalize the twofish algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">twofish アルゴリズムを初期化できませんでした.</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="1333"/>
@@ -2011,7 +2011,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="487"/>
         <source>Expires</source>
-        <translation>満了</translation>
+        <translation type="unfinished">有効期限</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="489"/>
@@ -2031,7 +2031,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="495"/>
         <source>Attachment</source>
-        <translation>添付</translation>
+        <translation type="unfinished">添付ファイル</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="279"/>
@@ -2061,7 +2061,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="258"/>
         <source>At least one group must exist before adding an entry.</source>
-        <translation>少なくとも 1 のグループはエントリの追加前に存在する必要があります。</translation>
+        <translation type="unfinished">エントリを追加する前に少なくとも 1 つのグループが存在する必要があります。</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="258"/>
@@ -2071,12 +2071,12 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="147"/>
         <source>Are you sure you want to delete this entry?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このエントリーを本当に削除してもよろしいですか?</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="149"/>
         <source>Are you sure you want to delete these %1 entries?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">これらの %1 エントリーを本当に削除してもよろしいですか?</translation>
     </message>
 </context>
 <context>
@@ -2104,7 +2104,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/GroupView.cpp" line="90"/>
         <source>Are you sure you want to delete this group, all its child groups and all their entries?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このグループ、すべての子グループ、およびそれらのエントリをすべて削除してもよろしいですか?</translation>
     </message>
 </context>
 <context>
@@ -2263,7 +2263,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="603"/>
         <source>Open Database...</source>
-        <translation>データベースを開く...</translation>
+        <translation type="unfinished">データベースを開く...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1423"/>
@@ -3049,7 +3049,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="545"/>
         <source>&amp;Password Generator...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワードを生成する(&amp;P)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="556"/>
