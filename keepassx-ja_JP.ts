@@ -3111,22 +3111,22 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="32"/>
         <source>Enter Master Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マスターキーの入力</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="35"/>
         <source>Set Master Key</source>
-        <translation type="unfinished">マスター キーの設定</translation>
+        <translation type="unfinished">マスターキーの設定</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="38"/>
         <source>Change Master Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マスターキーの変更</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="42"/>
         <source>Database Key</source>
-        <translation type="unfinished">データベース キー</translation>
+        <translation type="unfinished">データベースキー</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="132"/>
@@ -3151,7 +3151,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="206"/>
         <source>Please enter a Password or select a key file.</source>
-        <translation type="unfinished">パスワードを入力するかキー ファイルを選択してください。</translation>
+        <translation type="unfinished">パスワードを入力するかキーファイルを選択してください。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="211"/>
@@ -3161,23 +3161,24 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="216"/>
         <source>Please provide a key file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キーファイルを指定してください.</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="262"/>
         <source>%1:
 No such file or directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1:
+ディレクトリまたはファイルが見つかりません.</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="228"/>
         <source>The selected key file or directory is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">選択されたキーファイルまたはディレクトリは読み取りできません.</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="247"/>
         <source>The given directory does not contain any key files.</source>
-        <translation type="unfinished">ディレクトリがキー ファイルを含みません。</translation>
+        <translation type="unfinished">ディレクトリがキーファイルを含みません。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="253"/>
@@ -3189,12 +3190,13 @@ Please specify the key file directly.</source>
         <location filename="../dialogs/PasswordDlg.cpp" line="266"/>
         <source>%1:
 File is not readable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1:
+ファイルは読み込みできません.</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="340"/>
         <source>Create Key File...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キーファイルの作成...</translation>
     </message>
 </context>
 <context>
@@ -3272,27 +3274,27 @@ File is not readable.</source>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="163"/>
         <source>Key File:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キーファイル:</translation>
     </message>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="200"/>
         <source>Generate Key File...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">キーファイルの生成...</translation>
     </message>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="232"/>
         <source>Please repeat your password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワードをもう一度入力してください:</translation>
     </message>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="250"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">戻る</translation>
     </message>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="277"/>
         <source>Passwords are not equal.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パスワードが一致しません.</translation>
     </message>
 </context>
 <context>
@@ -3396,7 +3398,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SearchDlg.ui" line="65"/>
         <source>Include:</source>
-        <translation>範囲:</translation>
+        <translation type="unfinished">検索対象:</translation>
     </message>
     <message>
         <location filename="../forms/SearchDlg.ui" line="109"/>
