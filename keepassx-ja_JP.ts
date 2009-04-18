@@ -2697,12 +2697,12 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="191"/>
         <source>&amp;View</source>
-        <translation type="unfinished">表示</translation>
+        <translation type="unfinished">表示(&amp;V)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="136"/>
         <source>&amp;File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation type="unfinished">ファイル(&amp;F)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="145"/>
@@ -2723,12 +2723,12 @@ Do you want to save the changes?</source>
         <location filename="../forms/MainWindow.ui" line="230"/>
         <source>E&amp;xtras</source>
         <translatorcomment>エクストラはわかりにくいし、追加機能だと冗長かと。</translatorcomment>
-        <translation type="unfinished">ツール</translation>
+        <translation type="unfinished">ツール(&amp;X)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="128"/>
         <source>&amp;Help</source>
-        <translation type="unfinished">ヘルプ</translation>
+        <translation type="unfinished">ヘルプ(&amp;H)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="262"/>
@@ -3088,12 +3088,12 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="172"/>
         <source>&amp;Entries</source>
-        <translation type="unfinished">エントリ</translation>
+        <translation type="unfinished">エントリ(&amp;E)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="240"/>
         <source>&amp;Groups</source>
-        <translation type="unfinished">グループ</translation>
+        <translation type="unfinished">グループ(&amp;G)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="594"/>
