@@ -346,7 +346,7 @@ Allowed is only one per entry.</source>
     <message>
         <location filename="../forms/AutoTypeDlg.ui" line="35"/>
         <source>Click on an entry to auto-type it.</source>
-        <translation>自動入力するにはエントリ上でクリックします。</translation>
+        <translation type="unfinished">自動入力するにはエントリー上でクリックします。</translation>
     </message>
     <message>
         <location filename="../dialogs/AutoTypeDlg.cpp" line="35"/>
@@ -439,7 +439,7 @@ Please check your input.</source>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="324"/>
         <source>Save Attachment...</source>
-        <translation type="unfinished">添付ファイルの保存...</translation>
+        <translation type="unfinished">添付ファイルを保存...</translation>
     </message>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="353"/>
@@ -465,8 +465,8 @@ Please check your input.</source>
         <location filename="../dialogs/EditEntryDlg.cpp" line="352"/>
         <source>You are about to delete the attachment of this entry.
 Are you sure?</source>
-        <translation type="unfinished">このエントリの添付を削除しようとしています。
-よろしいですか?</translation>
+        <translation type="unfinished">このエントリーの添付を削除しようとしています。
+本当によろしいですか?</translation>
     </message>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="353"/>
@@ -496,7 +496,7 @@ Are you sure?</source>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="321"/>
         <source>The chosen entry has no attachment or it is empty.</source>
-        <translation type="unfinished">選択されたエントリは添付がないか空です。</translation>
+        <translation type="unfinished">選択されたエントリーは添付がないか空です。</translation>
     </message>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="63"/>
@@ -546,17 +546,17 @@ Are you sure?</source>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="147"/>
         <source>Edit Entry</source>
-        <translation>エントリの編集</translation>
+        <translation type="unfinished">エントリーの編集</translation>
     </message>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="256"/>
         <source>[Untitled Entry]</source>
-        <translation>[無題のエントリ]</translation>
+        <translation type="unfinished">[無題のエントリー]</translation>
     </message>
     <message>
         <location filename="../dialogs/EditEntryDlg.cpp" line="147"/>
         <source>New Entry</source>
-        <translation type="unfinished">新しいエントリ</translation>
+        <translation type="unfinished">新しいエントリー</translation>
     </message>
 </context>
 <context>
@@ -579,7 +579,7 @@ Are you sure?</source>
     <message>
         <location filename="../dialogs/PasswordGenDlg.cpp" line="121"/>
         <source>Password Generator</source>
-        <translation type="unfinished">パスワードを生成する</translation>
+        <translation type="unfinished">パスワード生成</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordGenDlg.cpp" line="279"/>
@@ -781,7 +781,7 @@ Please check your permissions.</source>
     <message>
         <location filename="../dialogs/SelectIconDlg.cpp" line="98"/>
         <source>An error occured while loading the icon.</source>
-        <translation>アイコンの読み込み中にエラーが発生しました。</translation>
+        <translation type="unfinished">アイコンの読み込み中にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="../dialogs/SelectIconDlg.cpp" line="31"/>
@@ -801,7 +801,7 @@ Please check your permissions.</source>
     <message>
         <location filename="../dialogs/SelectIconDlg.cpp" line="68"/>
         <source>An error occured while loading the icon(s):</source>
-        <translation>アイコンの読み込み中にエラーが発生しました:</translation>
+        <translation type="unfinished">アイコンの読み込み中にエラーが発生しました:</translation>
     </message>
 </context>
 <context>
@@ -845,7 +845,7 @@ Please check your permissions.</source>
     <message>
         <location filename="../dialogs/CollectEntropyDlg.cpp" line="30"/>
         <source>Entropy Collection</source>
-        <translation>エントロピー コレクション</translation>
+        <translation type="unfinished">エントロピーの収集</translation>
     </message>
     <message>
         <location filename="../forms/CollectEntropyDlg.ui" line="25"/>
@@ -931,7 +931,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../dialogs/CustomizeDetailViewDlg.cpp" line="49"/>
         <source>Time till Expiration</source>
-        <translation type="unfinished">期限まで</translation>
+        <translation type="unfinished">有効期限まで</translation>
     </message>
     <message>
         <location filename="../forms/CustomizeDetailViewDlg.ui" line="13"/>
@@ -941,7 +941,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/CustomizeDetailViewDlg.ui" line="34"/>
         <source>Rich Text Editor</source>
-        <translation>リッチ テキスト エディタ</translation>
+        <translation type="unfinished">リッチテキストエディタ</translation>
     </message>
     <message>
         <location filename="../forms/CustomizeDetailViewDlg.ui" line="48"/>
@@ -1172,7 +1172,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/DatabaseSettingsDlg.ui" line="84"/>
         <source>Calculate rounds for a 1-second delay on this computer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このコンピュータで 1 秒かかる回数を計算します</translation>
     </message>
 </context>
 <context>
@@ -1205,7 +1205,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../KpxConfig.cpp" line="263"/>
         <source>Creation</source>
-        <translation>作成</translation>
+        <translation type="unfinished">作成</translation>
     </message>
     <message>
         <location filename="../KpxConfig.cpp" line="264"/>
@@ -1220,7 +1220,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../KpxConfig.cpp" line="266"/>
         <source>Expiration</source>
-        <translation type="unfinished">期限</translation>
+        <translation type="unfinished">有効期限</translation>
     </message>
     <message>
         <location filename="../KpxConfig.cpp" line="267"/>
@@ -1233,7 +1233,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/EditEntryDlg.ui" line="14"/>
         <source>Edit Entry</source>
-        <translation>エントリの編集</translation>
+        <translation type="unfinished">エントリーの編集</translation>
     </message>
     <message>
         <location filename="../forms/EditEntryDlg.ui" line="152"/>
@@ -1374,12 +1374,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/ExpiredEntriesDlg.ui" line="13"/>
         <source>Expired Entries</source>
-        <translation type="unfinished">期限切れのエントリ</translation>
+        <translation type="unfinished">有効期限切れのエントリー</translation>
     </message>
     <message>
         <location filename="../forms/ExpiredEntriesDlg.ui" line="38"/>
         <source>Double click on an entry to jump to it.</source>
-        <translation type="unfinished">エントリをダブルクリックすると移動します。</translation>
+        <translation type="unfinished">エントリーをダブルクリックすると移動します。</translation>
     </message>
     <message>
         <location filename="../forms/ExpiredEntriesDlg.ui" line="61"/>
@@ -1399,12 +1399,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/ExpiredEntriesDlg.ui" line="76"/>
         <source>Expired</source>
-        <translation type="unfinished">期限切れ</translation>
+        <translation type="unfinished">有効期限切れ</translation>
     </message>
     <message>
         <location filename="../dialogs/ExpiredEntriesDlg.cpp" line="50"/>
         <source>Expired Entries in the Database</source>
-        <translation type="unfinished">データベース内の有効期限切れエントリ</translation>
+        <translation type="unfinished">データベース内の有効期限切れエントリー</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1471,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../lib/tools.cpp" line="63"/>
         <source>An error occurred while reading from the file.</source>
-        <translation>ファイルからの読み込み中にエラーが発生しました。</translation>
+        <translation type="unfinished">ファイルからの読み取り中にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="../lib/tools.cpp" line="64"/>
@@ -1564,7 +1564,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="13"/>
         <source>Password Generator</source>
-        <translation type="unfinished">パスワードを生成する</translation>
+        <translation type="unfinished">パスワード生成</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="459"/>
@@ -1664,7 +1664,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="50"/>
         <source>Random</source>
-        <translation type="unfinished">すべての文字</translation>
+        <translation type="unfinished">ランダム</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="99"/>
@@ -1684,7 +1684,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="193"/>
         <source>Exclude look-alike characters</source>
-        <translation type="unfinished">似ている文字を使わない</translation>
+        <translation type="unfinished">よく似た文字を除外する</translation>
     </message>
     <message>
         <location filename="../forms/PasswordGenDlg.ui" line="200"/>
@@ -1810,12 +1810,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../import/Import_PwManager.cpp" line="51"/>
         <source>Unsupported file version.</source>
-        <translation>未サポートのファイル バージョンです。</translation>
+        <translation type="unfinished">未サポートのファイルバージョンです。</translation>
     </message>
     <message>
         <location filename="../import/Import_PwManager.cpp" line="57"/>
         <source>Unsupported hash algorithm.</source>
-        <translation>未サポートのハッシュ アルゴリズムです。</translation>
+        <translation type="unfinished">未サポートのハッシュアルゴリズムです。</translation>
     </message>
     <message>
         <location filename="../import/Import_PwManager.cpp" line="60"/>
@@ -1835,7 +1835,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../import/Import_PwManager.cpp" line="103"/>
         <source>File is damaged (hash test failed).</source>
-        <translation>ファイルは損害を受けています (ハッシュ テストが失敗しました)。</translation>
+        <translation type="unfinished">ファイルは損害を受けています (ハッシュテストが失敗しました)。</translation>
     </message>
     <message>
         <location filename="../import/Import_PwManager.cpp" line="109"/>
@@ -1866,7 +1866,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../Kdb3Database.cpp" line="540"/>
         <source>Unexpected file size (DB_TOTAL_SIZE &lt; DB_HEADER_SIZE)</source>
-        <translation>予期しないファイル サイズです (DB_TOTAL_SIZE &lt; DB_HEADER_SIZE)</translation>
+        <translation type="unfinished">予期しないファイルサイズです (DB_TOTAL_SIZE &lt; DB_HEADER_SIZE)</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="557"/>
@@ -1876,7 +1876,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../Kdb3Database.cpp" line="562"/>
         <source>Unsupported File Version.</source>
-        <translation>未サポートのファイル バージョンです。</translation>
+        <translation type="unfinished">未サポートのファイルバージョンです。</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="571"/>
@@ -1887,14 +1887,14 @@ p, li { white-space: pre-wrap; }
         <location filename="../Kdb3Database.cpp" line="606"/>
         <source>Decryption failed.
 The key is wrong or the file is damaged.</source>
-        <translation>複合化が失敗しました。
+        <translation type="unfinished">復号化が失敗しました。
 キーが間違っているかファイルが損害を受けています。</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="632"/>
         <source>Hash test failed.
 The key is wrong or the file is damaged.</source>
-        <translation>ハッシュ テストが失敗しました。
+        <translation type="unfinished">ハッシュテストが失敗しました。
 キーが間違っているかファイルが損害を受けています。</translation>
     </message>
     <message>
@@ -1925,12 +1925,12 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../Kdb3Database.cpp" line="717"/>
         <source>Invalid group tree.</source>
-        <translation>不正なグループ ツリーです。</translation>
+        <translation type="unfinished">不正なグループツリーです。</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="933"/>
         <source>Key file is empty.</source>
-        <translation>キー ファイルは空です。</translation>
+        <translation type="unfinished">キーファイルは空です。</translation>
     </message>
     <message>
         <location filename="../Kdb3Database.cpp" line="1313"/>
@@ -1955,7 +1955,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../Kdb3Database.cpp" line="1333"/>
         <source>The database has been opened read-only.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">データベースは読み取り専用で開かれました。</translation>
     </message>
 </context>
 <context>
@@ -2016,7 +2016,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="489"/>
         <source>Creation</source>
-        <translation>作成</translation>
+        <translation type="unfinished">作成</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="491"/>
@@ -2026,7 +2026,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="493"/>
         <source>Last Access</source>
-        <translation>最終アクセス</translation>
+        <translation type="unfinished">最終アクセス</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="495"/>
@@ -2061,7 +2061,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="258"/>
         <source>At least one group must exist before adding an entry.</source>
-        <translation type="unfinished">エントリを追加する前に少なくとも 1 つのグループが存在する必要があります。</translation>
+        <translation type="unfinished">エントリーを追加する前に少なくとも 1 つのグループが存在する必要があります。</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="258"/>
@@ -2071,12 +2071,12 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/EntryView.cpp" line="147"/>
         <source>Are you sure you want to delete this entry?</source>
-        <translation type="unfinished">このエントリーを本当に削除してもよろしいですか?</translation>
+        <translation type="unfinished">本当にこのエントリーを削除してもよろしいですか?</translation>
     </message>
     <message>
         <location filename="../lib/EntryView.cpp" line="149"/>
         <source>Are you sure you want to delete these %1 entries?</source>
-        <translation type="unfinished">これらの %1 エントリーを本当に削除してもよろしいですか?</translation>
+        <translation type="unfinished">本当にこれらの %1 エントリーを削除してもよろしいですか?</translation>
     </message>
 </context>
 <context>
@@ -2104,7 +2104,7 @@ The key is wrong or the file is damaged.</source>
     <message>
         <location filename="../lib/GroupView.cpp" line="90"/>
         <source>Are you sure you want to delete this group, all its child groups and all their entries?</source>
-        <translation type="unfinished">このグループ、すべての子グループ、およびそれらのエントリをすべて削除してもよろしいですか?</translation>
+        <translation type="unfinished">本当にこのグループ、すべてのサブグループ、およびそれらのエントリーをすべて削除してもよろしいですか?</translation>
     </message>
 </context>
 <context>
@@ -2226,22 +2226,22 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="855"/>
         <source>Clone Entry</source>
-        <translation type="unfinished">エントリを複製</translation>
+        <translation type="unfinished">エントリーの複製</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="857"/>
         <source>Delete Entry</source>
-        <translation>エントリの削除</translation>
+        <translation type="unfinished">エントリーの削除</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="870"/>
         <source>Clone Entries</source>
-        <translation type="unfinished">エントリの複製</translation>
+        <translation type="unfinished">エントリーの複製</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="872"/>
         <source>Delete Entries</source>
-        <translation>エントリの削除</translation>
+        <translation type="unfinished">エントリーの削除</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="279"/>
@@ -2253,7 +2253,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="1420"/>
         <source>Ready</source>
-        <translation>レディ</translation>
+        <translation type="unfinished">準備完了</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="279"/>
@@ -2273,7 +2273,7 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="1426"/>
         <source>Loading Failed</source>
-        <translation>読み込みが失敗しました</translation>
+        <translation type="unfinished">読み込みが失敗しました</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="375"/>
@@ -2403,12 +2403,12 @@ to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="499"/>
         <source>The database file does not exist.</source>
-        <translation>データベース ファイルが存在しません。</translation>
+        <translation type="unfinished">データベースファイルが存在しません。</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="479"/>
         <source>The following error occured while opening the database:</source>
-        <translation>データベースを開いている間に以下のエラーが発生ました:</translation>
+        <translation type="unfinished">データベースを開いている間に以下のエラーが発生しました:</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1111"/>
@@ -2471,8 +2471,8 @@ to save the changes?</source>
 This means that either someone else has opened the file or KeePassX crashed last time it opened the database.
 
 Do you want to open it anyway?</source>
-        <translation type="unfinished">開こうとしたデータベースはロックされています.
-これは、誰か他の人がファイルを開いたか、前回データベースを開いた KeePassX が強制終了したことを意味します.
+        <translation type="unfinished">開こうとしたデータベースはロックされています。
+これは、誰か他の人がファイルを開いたか、前回データベースを開いた KeePassX が強制終了したことを意味します。
 
 とにかく開きますか?</translation>
     </message>
@@ -2486,7 +2486,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="535"/>
         <source>Couldn&apos;t remove database lock file.</source>
-        <translation type="unfinished">データベースのロックファイルを削除できませんでした.</translation>
+        <translation type="unfinished">データベースのロックファイルを削除できませんでした。</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="414"/>
@@ -2496,7 +2496,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../mainwindow.cpp" line="1429"/>
         <source>Couldn&apos;t create lock file. Opening the database read-only.</source>
-        <translation type="unfinished">ロックファイルを生成できませんでした. データベースを読み取り専用で開きます.</translation>
+        <translation type="unfinished">ロックファイルを生成できませんでした。データベースを読み取り専用で開きます。</translation>
     </message>
 </context>
 <context>
@@ -2733,22 +2733,22 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="262"/>
         <source>&amp;Open Database...</source>
-        <translation type="unfinished">開く(&amp;O)...</translation>
+        <translation type="unfinished">データベースを開く(&amp;O)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="267"/>
         <source>&amp;Close Database</source>
-        <translation type="unfinished">閉じる(&amp;C)</translation>
+        <translation type="unfinished">データベースを閉じる(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="272"/>
         <source>&amp;Save Database</source>
-        <translation type="unfinished">上書き保存(&amp;S)</translation>
+        <translation type="unfinished">データベースを保存(&amp;S)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="277"/>
         <source>Save Database &amp;As...</source>
-        <translation type="unfinished">名前を付けて保存(&amp;A)...</translation>
+        <translation type="unfinished">データベースを別名で保存(&amp;A)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="282"/>
@@ -2758,7 +2758,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="287"/>
         <source>Change &amp;Master Key...</source>
-        <translation>マスター キーの変更(&amp;M)...</translation>
+        <translation type="unfinished">マスターキーの変更(&amp;M)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="279"/>
@@ -2928,22 +2928,22 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="340"/>
         <source>Add &amp;New Entry...</source>
-        <translation type="unfinished">新規エントリの追加(&amp;N)...</translation>
+        <translation type="unfinished">新規エントリーの追加(&amp;N)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="345"/>
         <source>&amp;View/Edit Entry...</source>
-        <translation type="unfinished">エントリの表示/編集(&amp;V)...</translation>
+        <translation type="unfinished">エントリーの表示/編集(&amp;V)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="350"/>
         <source>De&amp;lete Entry</source>
-        <translation type="unfinished">エントリの削除</translation>
+        <translation type="unfinished">エントリーの削除(&amp;L)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="355"/>
         <source>&amp;Clone Entry</source>
-        <translation type="unfinished">エントリの複製(&amp;C)</translation>
+        <translation type="unfinished">エントリーの複製(&amp;C)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="360"/>
@@ -2958,7 +2958,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="373"/>
         <source>Show &amp;Entry Details</source>
-        <translation type="unfinished">エントリの詳細(&amp;E)</translation>
+        <translation type="unfinished">エントリーの詳細(&amp;E)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="381"/>
@@ -2998,27 +2998,27 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="437"/>
         <source>E&amp;xpires</source>
-        <translation type="unfinished">有効期限(&amp;E)</translation>
+        <translation type="unfinished">有効期限(&amp;X)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="445"/>
         <source>C&amp;reation</source>
-        <translation type="unfinished">作成日(&amp;R)</translation>
+        <translation type="unfinished">作成(&amp;R)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="453"/>
         <source>&amp;Last Change</source>
-        <translation type="unfinished">最終変更日(&amp;L)</translation>
+        <translation type="unfinished">最終変更(&amp;L)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="461"/>
         <source>Last &amp;Access</source>
-        <translation type="unfinished">最終アクセス日(&amp;A)</translation>
+        <translation type="unfinished">最終アクセス(&amp;A)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="469"/>
         <source>A&amp;ttachment</source>
-        <translation type="unfinished">添付(&amp;A)</translation>
+        <translation type="unfinished">添付(&amp;T)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="493"/>
@@ -3048,12 +3048,12 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="540"/>
         <source>&amp;New Database...</source>
-        <translation type="unfinished">新規(&amp;N)...</translation>
+        <translation type="unfinished">新規データベース(&amp;N)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="545"/>
         <source>&amp;Password Generator...</source>
-        <translation type="unfinished">パスワードを生成する(&amp;P)...</translation>
+        <translation type="unfinished">パスワード生成(&amp;P)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="556"/>
@@ -3063,7 +3063,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="561"/>
         <source>Show &amp;Expired Entries...</source>
-        <translation type="unfinished">有効期限切れのエントリを表示(&amp;E)...</translation>
+        <translation type="unfinished">有効期限切れのエントリーを表示(&amp;E)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="574"/>
@@ -3078,7 +3078,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="305"/>
         <source>&amp;Add New Subgroup...</source>
-        <translation type="unfinished">新規子グループ(&amp;A)...</translation>
+        <translation type="unfinished">新規サブグループ(&amp;A)...</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="584"/>
@@ -3088,7 +3088,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../forms/MainWindow.ui" line="172"/>
         <source>&amp;Entries</source>
-        <translation type="unfinished">エントリ(&amp;E)</translation>
+        <translation type="unfinished">エントリー(&amp;E)</translation>
     </message>
     <message>
         <location filename="../forms/MainWindow.ui" line="240"/>
@@ -3139,7 +3139,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="178"/>
         <source>Select a Key File</source>
-        <translation type="unfinished">キー ファイルの選択</translation>
+        <translation type="unfinished">キーファイルの選択</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="342"/>
@@ -3149,7 +3149,7 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="342"/>
         <source>Key Files (*.key)</source>
-        <translation type="unfinished">キー ファイル (*.key)</translation>
+        <translation type="unfinished">キーファイル (*.key)</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="206"/>
@@ -3164,19 +3164,19 @@ Do you want to save the changes?</source>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="216"/>
         <source>Please provide a key file.</source>
-        <translation type="unfinished">キーファイルを指定してください.</translation>
+        <translation type="unfinished">キーファイルを指定してください。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="262"/>
         <source>%1:
 No such file or directory.</source>
         <translation type="unfinished">%1:
-ディレクトリまたはファイルが見つかりません.</translation>
+ディレクトリまたはファイルが見つかりません。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="228"/>
         <source>The selected key file or directory is not readable.</source>
-        <translation type="unfinished">選択されたキーファイルまたはディレクトリは読み取りできません.</translation>
+        <translation type="unfinished">選択されたキーファイルまたはディレクトリは読み取りできません。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="247"/>
@@ -3187,7 +3187,7 @@ No such file or directory.</source>
         <location filename="../dialogs/PasswordDlg.cpp" line="253"/>
         <source>The given directory contains more then one key files.
 Please specify the key file directly.</source>
-        <translation type="unfinished">規定のディレクトリは 1 つ以上のキーファイルを含んでいます.
+        <translation type="unfinished">規定のディレクトリは 1 つ以上のキーファイルを含んでいます。
 キーファイルを直接指定してください.</translation>
     </message>
     <message>
@@ -3195,7 +3195,7 @@ Please specify the key file directly.</source>
         <source>%1:
 File is not readable.</source>
         <translation type="unfinished">%1:
-ファイルは読み込みできません.</translation>
+ファイルは読み取りできません。</translation>
     </message>
     <message>
         <location filename="../dialogs/PasswordDlg.cpp" line="340"/>
@@ -3228,7 +3228,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="100"/>
         <source>Enter a Password and/or choose a key file.</source>
-        <translation>パスワードを入力するかキー ファイルを選択します。</translation>
+        <translation type="unfinished">パスワードを入力するかキーファイルを選択します。</translation>
     </message>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="113"/>
@@ -3298,7 +3298,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/PasswordDlg.ui" line="277"/>
         <source>Passwords are not equal.</source>
-        <translation type="unfinished">パスワードが一致しません.</translation>
+        <translation type="unfinished">パスワードが一致しません。</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3633,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="928"/>
         <source>Edit Entry Dialog</source>
-        <translation type="unfinished">[エントリの編集] ダイアログ</translation>
+        <translation type="unfinished">[エントリーの編集] ダイアログ</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="279"/>
@@ -3688,7 +3688,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="340"/>
         <source>Always ask before deleting entries or groups</source>
-        <translation type="unfinished">エントリとグループの削除前に常に確認する</translation>
+        <translation type="unfinished">エントリーとグループの削除前に常に確認する</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="279"/>
@@ -3698,7 +3698,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="720"/>
         <source>Customize Entry Detail View...</source>
-        <translation>エントリの詳細表示のカスタマイズ...</translation>
+        <translation type="unfinished">エントリーの詳細表示のカスタマイズ...</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="827"/>
@@ -3738,22 +3738,22 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1171"/>
         <source>Key Stroke Delay:</source>
-        <translation>キー ストロークの遅延:</translation>
+        <translation type="unfinished">キーストロークの遅延:</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1181"/>
         <source>Delay between two simulated key strokes. Increase this if Auto-Type is randomly skipping characters.</source>
-        <translation>2 つのシミュレート済みキー ストロークの間の遅延です。自動入力がランダムに文字をスキップする場合はこれを上げます。</translation>
+        <translation type="unfinished">2 つのシミュレート済みキーストロークの間の遅延です。自動入力がランダムに文字をスキップする場合はこれを上げます。</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1100"/>
         <source>The directory where storage devices like CDs and memory sticks are normally mounted.</source>
-        <translation>CD やメモリ スティックのようなストレージ デバイスが通常マウントされるディレクトリです。</translation>
+        <translation type="unfinished">CD やメモリスティックのようなストレージデバイスが通常マウントされるディレクトリです。</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1090"/>
         <source>Media Root:</source>
-        <translation>メディア ルート:</translation>
+        <translation type="unfinished">メディアルート:</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="279"/>
@@ -3763,7 +3763,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1116"/>
         <source>Enable this if you want to use your bookmarks and the last opened file independet from their absolute paths. This is especially useful when using KeePassX portably and therefore with changing mount points in the file system.</source>
-        <translation>ブックマークとそれらの絶対パスから独立した最後に開かれたファイルを使用したい場合はこれを有効にします。これは特にポータブルに KeePassX を使用しそのためファイル システムのマウント ポイントの変更があるときに有用です。</translation>
+        <translation type="unfinished">ブックマークとそれらの絶対パスから独立した最後に開かれたファイルを使用したい場合はこれを有効にします。これは特にポータブルに KeePassX を使用しそのためファイルシステムのマウントポイントの変更があるときに有用です。</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1119"/>
@@ -3773,7 +3773,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="150"/>
         <source>Minimize to tray instead of taskbar</source>
-        <translation>タスク バーの代わりにトレイへ最小化する</translation>
+        <translation type="unfinished">タスクバーの代わりにトレイへ最小化する</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="249"/>
@@ -3788,12 +3788,12 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="994"/>
         <source>Lock workspace when minimizing the main window</source>
-        <translation>メイン ウィンドウの最小化時にワークスペースをロックする</translation>
+        <translation type="unfinished">メインウィンドウの最小化時にワークスペースをロックする</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1066"/>
         <source>Custom Browser Command</source>
-        <translation>カスタム ブラウザ コマンド</translation>
+        <translation type="unfinished">カスタムブラウザコマンド</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1078"/>
@@ -3818,7 +3818,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="919"/>
         <source>Show plain text passwords in:</source>
-        <translation type="unfinished">平文で表示する:</translation>
+        <translation type="unfinished">プレーンテキストで表示する:</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="935"/>
@@ -3838,7 +3838,7 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="1228"/>
         <source>Use entries&apos; title to match the window for Global Auto-Type</source>
-        <translation type="unfinished">グローバルな自動入力のウィンドウへの一致にエントリのタイトルを使用する</translation>
+        <translation type="unfinished">グローバルな自動入力のウィンドウへの一致にエントリーのタイトルを使用する</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="74"/>
@@ -3863,12 +3863,12 @@ File is not readable.</source>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="372"/>
         <source>Save backups of modified entries into the &apos;Backup&apos; group</source>
-        <translation type="unfinished">エントリを変更したときは &quot;Backup&quot; グループにバックアップする</translation>
+        <translation type="unfinished">エントリーを変更したときは &quot;Backup&quot; グループにバックアップする</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="400"/>
         <source>Delete backup entries older than:</source>
-        <translation type="unfinished">&quot;backup&quot; グループのエントリを次の日数が経過後に自動的に削除する:</translation>
+        <translation type="unfinished">&quot;backup&quot; グループのエントリーを次の日数が経過後に自動的に削除する:</translation>
     </message>
     <message>
         <location filename="../forms/SettingsDlg.ui" line="426"/>
