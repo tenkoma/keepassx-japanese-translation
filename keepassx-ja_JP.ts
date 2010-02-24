@@ -1642,24 +1642,40 @@ The key is wrong or the file is damaged.</source>
         <source>The database has been opened read-only.</source>
         <translation>データベースは読み取り専用で開かれました。</translation>
     </message>
+    <message>
+        <source>Bytes</source>
+        <translation type="unfinished">バイト</translation>
+    </message>
+    <message>
+        <source>KiB</source>
+        <translation type="unfinished">KiB</translation>
+    </message>
+    <message>
+        <source>MiB</source>
+        <translation type="unfinished">MiB</translation>
+    </message>
+    <message>
+        <source>GiB</source>
+        <translation type="unfinished">GiB</translation>
+    </message>
 </context>
 <context>
     <name>Kdb3Database::EntryHandle</name>
     <message>
         <source>Bytes</source>
-        <translation>バイト</translation>
+        <translation type="obsolete">バイト</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KiB</translation>
+        <translation type="obsolete">KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation type="obsolete">MiB</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GiB</translation>
+        <translation type="obsolete">GiB</translation>
     </message>
 </context>
 <context>
@@ -2087,6 +2103,10 @@ Do you want to save the changes?</source>
     <message>
         <source>locked</source>
         <translation>ロック済み</translation>
+    </message>
+    <message>
+        <source>Ctrl+M</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2575,6 +2595,10 @@ Do you want to save the changes?</source>
         <source>&amp;Group</source>
         <translation>グループ(&amp;G)</translation>
     </message>
+    <message>
+        <source>&amp;Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ManageBookmarksDlg</name>
@@ -2975,7 +2999,7 @@ File is not readable.</source>
     </message>
     <message>
         <source>Minimize to tray when clicking the main window&apos;s close button</source>
-        <translation type="obsolete">メインウィンドウの閉じるボタンのクリック時にトレイへ最小化する</translation>
+        <translation type="unfinished">メインウィンドウの閉じるボタンのクリック時にトレイへ最小化する</translation>
     </message>
     <message>
         <source>Save recent directories of file dialogs</source>
