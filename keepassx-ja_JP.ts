@@ -1644,19 +1644,19 @@ The key is wrong or the file is damaged.</source>
     </message>
     <message>
         <source>Bytes</source>
-        <translation type="unfinished">バイト</translation>
+        <translation>バイト</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation type="unfinished">KiB</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation type="unfinished">MiB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation type="unfinished">GiB</translation>
+        <translation>GiB</translation>
     </message>
 </context>
 <context>
@@ -2106,7 +2106,7 @@ Do you want to save the changes?</source>
     </message>
     <message>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
 </context>
 <context>
@@ -2597,7 +2597,7 @@ Do you want to save the changes?</source>
     </message>
     <message>
         <source>&amp;Minimize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>ウインドウ最小化(&amp;M)</translation>
     </message>
 </context>
 <context>
@@ -2999,7 +2999,7 @@ File is not readable.</source>
     </message>
     <message>
         <source>Minimize to tray when clicking the main window&apos;s close button</source>
-        <translation type="unfinished">メインウィンドウの閉じるボタンのクリック時にトレイへ最小化する</translation>
+        <translation>メインウィンドウの閉じるボタンをクリックしたらトレイへ最小化する</translation>
     </message>
     <message>
         <source>Save recent directories of file dialogs</source>
@@ -3239,7 +3239,7 @@ File is not readable.</source>
     </message>
     <message>
         <source>Show window always on top</source>
-        <translation type="unfinished"></translation>
+        <translation>ウインドウを常に前面に表示する</translation>
     </message>
 </context>
 <context>
